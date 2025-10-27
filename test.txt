@@ -1,0 +1,4 @@
+Sep 12 2014 06:52:48 GIFRCHNO1 : RASA-2-106016: Deny IP spoof from (0.0.0.0) to 192.168.1.255 on interface Mobile_Traffio
+Sep 12 2014 06:53:00 GIFRCHNO1 : RASA-2-106016: Deny IP spoof from (0.0.0.0) to 192.168.1.255 on interface Mobile_Traffic
+Sep 12 2014 06:53:01 GIFRCHNO1 : RASA-4-106023: Deny tep sre outside:192.0.2.95/24069 dst inside:10.32.112.125/25 by access-group "PERMIT_IN" [0x0, 0x0]"
+Sep 12 2014 06:53:02 GIFRCHNO1 : BASA-3-313001: Denied ICMP type-3, code-3 from 10.2.3.5 on interface Outside
